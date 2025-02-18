@@ -9,7 +9,7 @@ A simple and user-friendly website for uploading and downloading files. This pro
 - **Secure**: Uses best practices for file uploads to ensure security.
 
 ## Demo
-You can try the live demo of the project here: [Live Demo Link](https://example.com)
+You can try the live demo of the project here: [Live Demo Link](https://lexicin.github.io/-Retro-Games.com/)
 
 ## Installation
 
@@ -20,4 +20,4 @@ You can try the live demo of the project here: [Live Demo Link](https://example.
 ### Steps to Get Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Lexi/upload-download-website.git
+   git clone https://github.com/Lexicin/-Retr-Games.com.git
