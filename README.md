@@ -13,7 +13,7 @@ You can try the live demo of the project here: [Live Demo Link](https://lexicin.
 
 ## Installation
 
-### Requirements
+### programming language
 - html
 - php
 
