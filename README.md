@@ -15,6 +15,7 @@ You can try the live demo of the project here: [Live Demo Link](https://lexicin.
 
 ### programming language
 - html
+- css
 - php
 
 ### Steps to Get Started
