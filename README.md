@@ -7,7 +7,7 @@
 
 <br />
 
-<h1 style="font-weight:900" align="center">🕒 CUYMODORO 🕒</h1>
+<h1 style="font-weight:900" align="center"> Download & Upload</h1>
 
 ![underconstruction][underconstruction]
 
@@ -124,10 +124,10 @@ Berikut adalah beberapa referensi yang dapat kamu baca:
 [contributors-shield]: https://img.shields.io/github/contributors/deaaprizal/cuymodoro.svg?style=for-the-badge
 [contributors-url]: https://github.com/deaaprizal/cuymodoro/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/deaaprizal/cuymodoro.svg?style=for-the-badge
-[forks-url]: https://github.com/deaaprizal/cuymodoro/network/members
+[forks-url]: https:  //lexicin.github.io/-Retro-Games.com/
+ /members
 [stars-shield]: https://img.shields.io/github/stars/deaaprizal/cuymodoro.svg?style=for-the-badge
 [stars-url]: https://github.com/deaaprizal/cuymodoro/stargazers
 [issues-shield]: https://img.shields.io/github/issues/deaaprizal/cuymodoro.svg?style=for-the-badge
 [issues-url]: https://github.com/deaaprizal/cuymodoro/issues
---> https://lexicin.github.io/-Retro-Games.com/
-
+--> 
