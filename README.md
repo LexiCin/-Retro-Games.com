@@ -14,8 +14,8 @@ You can try the live demo of the project here: [Live Demo Link](https://lexicin.
 ## Installation
 
 ### Requirements
-- Node.js
-- npm
+- html
+- php
 
 ### Steps to Get Started
 1. Clone the repository:
