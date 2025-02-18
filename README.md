@@ -20,4 +20,4 @@ You can try the live demo of the project here: [Live Demo Link](https://example.
 ### Steps to Get Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/upload-download-website.git
+   git clone https://github.com/Lexi/upload-download-website.git
