@@ -20,4 +20,4 @@ You can try the live demo of the project here: [Live Demo Link](https://lexicin.
 ### Steps to Get Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Lexicin/-Retr-Games.com.git
+   git clone https://lexicin.github.io/-Retro-Games.com/
